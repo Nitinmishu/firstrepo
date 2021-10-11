@@ -1,2 +1,1 @@
-# firstrepo
-## Author : Nitin Singh
+hello world
